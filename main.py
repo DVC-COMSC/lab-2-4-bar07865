@@ -10,8 +10,6 @@ def main():
     print(sub1)
     print(merge_str)
 
-    pass
-
 
 if __name__ == '__main__':
     main()
